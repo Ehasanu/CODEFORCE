@@ -1,0 +1,10 @@
+#include<iostream>
+using namspace std;
+main()
+{
+    for(i=1;i<101;i++)
+    {
+        cout<<"Sudipto bokachoda"
+    }
+    return 0;
+}
